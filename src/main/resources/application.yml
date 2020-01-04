@@ -1,0 +1,4 @@
+#≈‰÷√∑√Œ html
+spring:
+  resources:
+    static-locations: classpath:/templates
